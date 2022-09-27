@@ -9,10 +9,12 @@ com\pdf\service\impl\CategoryServiceImpl$1.class
 com\pdf\domain\vo\CategoryVo.class
 com\pdf\service\CategoryService.class
 com\pdf\domain\vo\PageVo.class
+com\pdf\service\impl\ArticleServiceImpl$1.class
 com\pdf\domain\entity\Category.class
 com\pdf\config\WebConfig.class
 com\pdf\mapper\ArticleMapper.class
 com\pdf\config\MybatisPlusConfig.class
+com\pdf\domain\vo\ArticleDetailVo.class
 com\pdf\utils\AppHttpCodeEnum.class
 com\pdf\utils\ResponseResult.class
 com\pdf\mapper\CategoryMapper.class
