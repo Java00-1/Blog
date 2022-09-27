@@ -1,5 +1,7 @@
-com\pdf\ArticleApplication.class
 com\pdf\controller\ArticleController.class
 com\pdf\controller\CategoryController.class
+com\pdf\controller\CommentController.class
+com\pdf\config\SecurityConfig.class
+com\pdf\ArticleApplication.class
 com\pdf\controller\BlogLoginController.class
 com\pdf\controller\LinkController.class
